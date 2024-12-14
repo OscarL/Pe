@@ -17,6 +17,7 @@ RezObjects
 	keywords.lua.r
 	keywords.m.r
 	keywords.ob2.r
+	keywords.ocaml.r
 	keywords.pas.r
 	keywords.pl.r
 	keywords.py.r

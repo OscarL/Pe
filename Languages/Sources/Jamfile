@@ -130,6 +130,14 @@ PeLanguage OberonExt
 # </pe-src>
 
 # <pe-src>
+PeLanguage OcamlExt 
+	: Ocaml_Language.cpp 
+	: be 
+	: keywords.ocaml.rsrc
+	;
+# </pe-src>
+
+# <pe-src>
 PeLanguage PascalExt 
 	: Pascal_Language.cpp Pascal_Popup.cpp 
 	: be 
